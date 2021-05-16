@@ -89,7 +89,7 @@ class Feedparser:
         if len(self.new_titles) != 0:
             self.log.info('sending one new title')
 
-            payload["headings"] = {"en": "AllAboutBelgaum"}
+            payload["headings"] = {"en": "Belgaum News Alert"}
             payload["contents"] = {"en": self.new_titles[0][0]}
         
         # Attempt to send a push
