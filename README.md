@@ -6,7 +6,7 @@
 ### Prerequisites
 Here is a list of Python dependencies we're using right now:
 
-* [psycopg2](https://pypi.python.org/pypi/psycopg2)
+* [psycopg2-binary](https://pypi.python.org/pypi/psycopg2-binary)
 * [requests](http://docs.python-requests.org/en/master/)
 * [feedparser](https://pypi.python.org/pypi/feedparser)
 
