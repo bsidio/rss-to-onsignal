@@ -24,5 +24,5 @@ This simple script does the following list of steps:
 |--|--|
 | DATABASE_URL | ```postgresql://[user[:password]@][netloc][:port][/dbname]``` |
 | FEED_URL| URL Link to feed|
-|ONESIGNAL_APP_ID| > Requires your OneSignal App's  **REST API Key**, available in  [Keys & IDs](https://documentation.onesignal.com/docs/accounts-and-keys).|
-|ONESIGNAL_AUTHORIZATION| > Requires your OneSignal App's  **REST API Key**, available in  [Keys & IDs](https://documentation.onesignal.com/docs/accounts-and-keys).|
+|ONESIGNAL_APP_ID|  Requires your OneSignal App's  **REST API Key**, available in  [Keys & IDs](https://documentation.onesignal.com/docs/accounts-and-keys).|
+|ONESIGNAL_AUTHORIZATION|  Requires your OneSignal App's  **REST API Key**, available in  [Keys & IDs](https://documentation.onesignal.com/docs/accounts-and-keys).|
